@@ -1,7 +1,9 @@
 [toc]
 
 # 一意增效家-Agent教育项目
-知识星球《一意增效家》：https://wx.zsxq.com/dweb2/index/group/51112518515414
+微信公众号《一意AI增效家》。
+
+知识星球《一意AI增效家会员圈》：https://wx.zsxq.com/dweb2/index/group/51112518515414
 
 # 运行方法
 ## 调用 openai API 运行
